@@ -1,0 +1,7 @@
+# Cache
+**/__pycache__
+
+# Static and venv
+services/web/env
+services/web/project/media/
+services/web/project/static/
